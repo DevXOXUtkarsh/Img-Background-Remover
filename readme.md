@@ -12,7 +12,7 @@ This Python application allows users to remove the background from images using 
 - [remove.bg API key](https://www.remove.bg/api)
 
 ##  Sample Image
-![logo]()
+![Sample](https://github.com/DevXOXUtkarsh/Img-Background-Remover/blob/main/sample.PNG)
 ## Installation
 
 1. Clone the repository:
